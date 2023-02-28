@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"name": "font-6",
+			"path": "D:/font-6"
+		},
+		{
+			"name": "css",
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.port": 5501,
+        "liveServer.settings.multiRootWorkspaceName": "css"
+    }
+}
