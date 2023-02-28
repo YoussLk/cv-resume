@@ -238,8 +238,7 @@ body {
     display: none;
 }
 
-
-/* .download {
+.download {
     position: static;
     width: 80px;
     height: 80PX;
@@ -247,21 +246,22 @@ body {
     background-color: #1321168a;
     opacity: 2;
     /* margin-bottom: 155Px; */
-
-left: 18rem;
-border: 2px solid #6af81e;
-box-shadow: 2px #07a22b;
-text-align: center;
-line-height: 75PX;
-
+    left: 18rem;
+    border: 2px solid #6af81e;
+    box-shadow: 2px #07a22b;
+    text-align: center;
+    line-height: 75PX;
 }
-*/ .download:hover {
+
+.download:hover {
     background-color: #07a22b;
 }
+
 .fa-download {
     width: 50px;
     font-size: 25PX;
 }
+
 .fa-solid {
     font-size: 50px;
     width: 50PX;
